@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A self-taught iOS developer</h3>
 
-- 🔭 I’m currently working on a [Digimon project](https://github.com/kevinjeon6/DigimonProject) utilizing UIKit
+<h3 align="left">My Apps</h3>
 
-- 🌱 I’m currently learning **UIKit by developing an Digimon character app**
+You can download my [MoveFITT](https://apps.apple.com/us/app/movefitt/id6447447533) on the App Store!
+
+You can download my [Digimon: Character Finder App](https://apps.apple.com/us/app/digimon-character-finder/id6449167225) on the App Store!
+
+<b>I’m currently looking for my first iOS developer role!</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
