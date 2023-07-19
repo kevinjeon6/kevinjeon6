@@ -3,9 +3,9 @@
 
 <h3 align="left">My Apps</h3>
 
-You can download my [MoveFITT](https://apps.apple.com/us/app/movefitt/id6447447533) on the App Store!
+You can download my health app, [MoveFITT](https://apps.apple.com/us/app/movefitt/id6447447533) on the App Store!
 
-You can download my [Digimon: Character Finder App](https://apps.apple.com/us/app/digimon-character-finder/id6449167225) on the App Store!
+You can download my Digimon app, [Digimon: Character Finder App](https://apps.apple.com/us/app/digimon-character-finder/id6449167225) on the App Store!
 
 <b>I’m currently looking for my first iOS developer role!</b>
 
