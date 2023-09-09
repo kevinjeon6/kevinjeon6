@@ -1,10 +1,11 @@
 <h1 align="left">Hi 👋, I'm Kevin</h1>
+<b>I’m currently looking for my first iOS developer role!</b>
 <h3 align="left"> I started learning Swift and SwiftUI at the end of 2021/start of 2022 to change careers and become an iOS developer. I love the creative process of building an app and improving the user's productivity, experience, and daily tasks. I enjoy the critical thinking process when using Swift and the SwiftUI framework.</h3>
 
 <h3 align="left">My Apps</h3>
 
 [MoveFITT](https://apps.apple.com/us/app/movefitt/id6447447533) 
-MoveFITT is a physical activity tracker to help you meet the Physical Activity Guidelines for Americans to improve your overall health. It provides the recommended goals for daily physical activity, weekly physical activity, step count, and muscle strengthening activity. MoveFITT also tracks other health metrics such as active calories burned, resting heart rate, and heart rate variability. It also provides you your workout history.
+is a physical activity tracker to help you meet the Physical Activity Guidelines for Americans to improve your overall health. It provides the recommended goals for daily physical activity, weekly physical activity, step count, and muscle strengthening activity. MoveFITT also tracks other health metrics such as active calories burned, resting heart rate, and heart rate variability. It also provides you your workout history.
 
  
 ### Highlights
@@ -23,9 +24,23 @@ MoveFITT is a physical activity tracker to help you meet the Physical Activity G
 
 
 
-You can download my Digimon app, [Digimon: Character Finder App](https://apps.apple.com/us/app/digimon-character-finder/id6449167225) on the App Store!
 
-<b>I’m currently looking for my first iOS developer role!</b>
+
+[Digimon: Character Finder App](https://apps.apple.com/us/app/digimon-character-finder/id6449167225) 
+lets you find a Digimon and their level. Type and search for a Digimon. You can also add your favorite Digimon to the Favorites tab or remove them
+
+Highlights
+- Utilized UIKit framework to build the app
+- Persisted data through UserDefaults by allowing the user to save and delete their favorite Digimon to the Favorites tab
+- Implemented Swift Concurrency (async/await) and codable protocol to make an API call and fetch JSON
+
+![1](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/7dc520db-e82f-448d-b80b-b41ea5aeb939)
+![2](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/7a4b8f55-4f66-403a-ac15-5d4f93d7c0e0)
+![3](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/1947cd87-37a1-4034-b81c-279c9afadc93)
+![5](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/7197c88f-f4f6-45d5-9950-e5d27ade5712)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
