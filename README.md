@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kevin</h1>
-<b>I’m currently looking for my first iOS developer role!</b>
-<h3 align="left"> I started learning Swift and SwiftUI at the end of 2021/start of 2022 to change careers and become an iOS developer. I love the creative process of building an app and improving the user's productivity, experience, and daily tasks. I enjoy the critical thinking process when using Swift and the SwiftUI framework.</h3>
+<h3 align="left"> I started learning Swift and SwiftUI at the end of 2021/start of 2022 to become an iOS Developer.  I love the process of building applications that directly impacts individuals by enhancing their daily productivity or hobbies, providing enjoyment, or improving their health. Feel free to message me on either X (Twitter) or LinkedIn 😬</h3>
 
 <h3 align="left">My Apps</h3>
 
@@ -10,15 +9,16 @@ is a physical activity tracker to help you meet the Physical Activity Guidelines
  
 ### Highlights
 - Implement HealthKit API to retrieve health metrics
-- Track step count, active calories burned, exercise minutes, resting heart rate, heart rate variability (HRV), and your workout history
-- Adjust your goals
-- Built using SwiftUI framework and MVVM design pattern
-- Implemented SwiftUI charts
+- Track step count, active calories burned, exercise minutes, resting heart rate, heart rate variability (HRV), and workout history
+- SwiftUI Charts with interactivity
 
-![1](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/f425367f-6971-47ac-8cf9-89d6404cceb4)
-![2](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/004f1c06-7345-494c-a104-3eeb96a3fbc8)
-![4](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/d0b3d179-2e00-4339-8662-82cd910a060b)
-![5](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/2827527d-ad1b-4d6e-812e-d07e3c271e31)
+![1](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/ef156993-742c-4400-b3f6-865eed128c77)
+![2](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/e3ce1886-4e2f-417f-b5a2-e973f145aea0)
+![3](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/6e3f9213-6004-4061-ac4c-fff9cd8f59c2)
+![4](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/2167eb0a-2458-4045-82b2-f2d4c3103a05)
+![5](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/42839a9a-a60a-4ed3-8056-c85664f1deec)
+
+
 
 
 
@@ -27,18 +27,32 @@ is a physical activity tracker to help you meet the Physical Activity Guidelines
 
 
 [Digimon: Character Finder App](https://apps.apple.com/us/app/digimon-character-finder/id6449167225) 
-lets you find a Digimon and their level. Type and search for a Digimon. You can also add your favorite Digimon to the Favorites tab or remove them
+lets you search for a Digimon and their level.
 
-Highlights
-- Utilized UIKit framework to build the app
-- Persisted data through UserDefaults by allowing the user to save and delete their favorite Digimon to the Favorites tab
-- Implemented Swift Concurrency (async/await) and codable protocol to make an API call and fetch JSON
+### Highlights
+- Performed a networking call to the Digimon REST API using Swift async/await syntax to fetch then display JSON data
+- Developed UI programmatically with UIKit and utilized Auto Layout constraints
+- Utilized UserDefaults to keep track of the user favorites
 
 ![1](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/7dc520db-e82f-448d-b80b-b41ea5aeb939)
 ![2](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/7a4b8f55-4f66-403a-ac15-5d4f93d7c0e0)
 ![3](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/1947cd87-37a1-4034-b81c-279c9afadc93)
 ![5](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/7197c88f-f4f6-45d5-9950-e5d27ade5712)
 
+
+
+
+
+[G-Club Companion](https://apps.apple.com/us/app/g-club-companion/id6478062970) records and saves golf club details which includes carry distance, flex, brand name, and loft.
+
+### Highlights
+- Implemented Core Data
+- Pre-loaded JSON Data 
+- TipKit
+
+![1](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/e5625460-42d1-42f6-9ae0-b43332eb1c60)
+![2](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/e0080b19-7c7b-45d0-99db-63e723a12e08)
+![3](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/c068f40a-1bec-4588-a6c7-2d726b93d2f5)
 
 
 
