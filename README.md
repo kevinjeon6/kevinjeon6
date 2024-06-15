@@ -47,9 +47,9 @@ lets you search for a Digimon and their level.
 [G-Club Companion](https://apps.apple.com/us/app/g-club-companion/id6478062970) records and saves golf club details which includes carry distance, flex, brand name, and loft.
 
 ### Highlights
-- Implemented Core Data
-- Pre-loaded JSON Data 
-- TipKit
+- Implemented Core Data to persist data
+- Provided pre-loaded JSON Data to improve performance 
+- Ensured a better user experience by implementing TipKit
 
 ![1](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/e5625460-42d1-42f6-9ae0-b43332eb1c60)
 ![2](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/e0080b19-7c7b-45d0-99db-63e723a12e08)
