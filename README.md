@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kevin</h1>
-<h3 align="left"> I started learning Swift and SwiftUI at the end of 2021/start of 2022 to become an iOS Developer.  I love the process of building applications that directly impacts individuals by enhancing their daily productivity or hobbies, providing enjoyment, or improving their health. Feel free to message me on either X (Twitter) or LinkedIn 😬</h3>
+<h3 align="left"> I started learning Swift and SwiftUI in 2021 to become an iOS Developer.  I love the process of building applications that directly impacts individuals by enhancing their daily productivity or hobbies, providing enjoyment, or improving their health. Feel free to message me on either X (Twitter) or LinkedIn 😬</h3>
 <p><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></p>
 
 <h3 align="left">My Apps</h3>
