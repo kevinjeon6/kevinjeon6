@@ -10,16 +10,16 @@ is a physical activity tracker to help you meet the Physical Activity Guidelines
  
 ### Highlights
 - Implement HealthKit API to retrieve health metrics
-- Track step count, active calories burned, exercise minutes, resting heart rate, heart rate variability (HRV), and workout history
+- Track step count, active calories burned, exercise minutes, resting heart rate, heart rate variability (HRV), blood oxygen, respiratory rate, and workout history
 - SwiftUI Charts with interactivity
 
-![1](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/ef156993-742c-4400-b3f6-865eed128c77)
-![2](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/e3ce1886-4e2f-417f-b5a2-e973f145aea0)
-![3](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/6e3f9213-6004-4061-ac4c-fff9cd8f59c2)
-![4](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/2167eb0a-2458-4045-82b2-f2d4c3103a05)
-![5](https://github.com/kevinjeon6/kevinjeon6/assets/80538229/42839a9a-a60a-4ed3-8056-c85664f1deec)
 
 
+![1 copy](https://github.com/user-attachments/assets/ed7d662c-2653-44c9-b505-d2004c9942e2)
+![2 copy](https://github.com/user-attachments/assets/2617f26d-e090-4bd6-aa91-08835156bb55)
+![3 copy](https://github.com/user-attachments/assets/ab900e89-ac2b-4d45-879a-c9223f1fcd42)
+![4 copy](https://github.com/user-attachments/assets/6c8a223a-23bb-42b7-b39c-ef4d11a8579c)
+![5 copy](https://github.com/user-attachments/assets/67431c64-e8c7-4825-9741-eb9afc9905f0)
 
 
 
